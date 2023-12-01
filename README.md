@@ -64,10 +64,10 @@ The project is organized into several key components:
 
 ## Contact Information
 
-Connect with the project author:
+Follow me on Twitter 🐦, connect with me on LinkedIn 🔗, and check out my GitHub 🐙. You won't be disappointed!
 
-- Twitter: [https://twitter.com/your-twitter-handle](https://twitter.com/your-twitter-handle)
-- LinkedIn: [https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
-- GitHub: [https://github.com/your-username](https://github.com/your-username)
+👉 Twitter: https://twitter.com/NdiranguMuturi1  
+👉 LinkedIn: https://www.linkedin.com/in/isaac-muturi-3b6b2b237  
+👉 GitHub: https://github.com/Isaac-Ndirangu-Muturi-749   
 
 Feel free to reach out for questions or collaborations!
