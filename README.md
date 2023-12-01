@@ -2,8 +2,6 @@
 
 ![timeseries](time_series.png)
 
-# Electric Power Consumption Time Series Forecasting
-
 ## Project Overview
 
 This project focuses on time series forecasting for individual household electric power consumption. The dataset spans December 2006 to November 2010, providing a rich source of information for understanding and predicting energy consumption patterns.
@@ -12,13 +10,13 @@ This project focuses on time series forecasting for individual household electri
 
 The project is organized into several key components:
 
-1. **Notebooks:**
-   - **exploratory_data_analysis.ipynb:** Explore the dataset, handle missing values, and visualize time series data.
-   - **time_series_decomposition.ipynb:** Decompose the time series into trend, seasonality, and residual components.
-   - **arima_modeling.ipynb:** Apply ARIMA modeling for time series forecasting.
-   - **prophet_univariate_model.ipynb:** Utilize Facebook Prophet for univariate time series modeling.
-   - **prophet_multivariate_model.ipynb:** Extend modeling to multivariate forecasting using Facebook Prophet.
-   - **evaluation_metrics.ipynb:** Evaluate model performance using metrics such as RMSE, MAE, and MAPE.
+1. **Notebook Sections:**
+   - **exploratory_data_analysis:** Explore the dataset, handle missing values, and visualize time series data.
+   - **time_series_decomposition:** Decompose the time series into trend, seasonality, and residual components.
+   - **arima_modeling:** Apply ARIMA modeling for time series forecasting.
+   - **prophet_univariate_model:** Utilize Facebook Prophet for univariate time series modeling.
+   - **prophet_multivariate_model:** Extend modeling to multivariate forecasting using Facebook Prophet.
+   - **evaluation_metrics:** Evaluate model performance using metrics such as RMSE, MAE, and MAPE.
 
 2. **Dependencies:**
    - The project dependencies are listed in the `requirements.txt` file.
