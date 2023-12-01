@@ -26,6 +26,18 @@ The project is organized into several key components:
    - The dataset is sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption).
    - Preprocessing includes handling missing values and converting columns to numeric.
 
+## Attribute Information
+
+- **date:** Date in dd/mm/yyyy format
+- **time:** Time in hh:mm:ss format
+- **globalactivepower:** Household global minute-averaged active power (in kilowatt)
+- **globalreactivepower:** Household global minute-averaged reactive power (in kilowatt)
+- **voltage:** Minute-averaged voltage (in volt)
+- **global_intensity:** Household global minute-averaged current intensity (in ampere)
+- **submetering1:** Energy sub-metering No. 1 (watt-hour of active energy)
+- **submetering2:** Energy sub-metering No. 2 (watt-hour of active energy)
+- **submetering3:** Energy sub-metering No. 3 (watt-hour of active energy)
+
 4. **Modeling:**
    - ARIMA Modeling: Time series modeling using ARIMA (AutoRegressive Integrated Moving Average) for forecasting.
    - Facebook Prophet: Utilizing the Prophet library for univariate and multivariate time series forecasting.
